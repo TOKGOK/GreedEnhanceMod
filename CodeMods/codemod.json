@@ -1,0 +1,5 @@
+{
+  "dll": "GreedEnhanceMod.dll",
+  "entryClass": "GreedEnhanceMod.Main",
+  "displayName": "贪婪增强"
+}
